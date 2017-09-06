@@ -4,7 +4,7 @@ class Hai
 {
 	void raju()
 	{
-		System.out.println("This is raju");
+		System.out.println("This is raju radhfjfj");
 	}
 }
 class Hello extends Hai{
